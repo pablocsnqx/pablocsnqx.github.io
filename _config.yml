@@ -1,0 +1,15 @@
+title: pablocsnqx
+description: Seguridad de SLMs, agentes y pentesting web
+url: "https://pablocsnqx.github.io"
+lang: es
+
+remote_theme: b2a3e8/jekyll-theme-console
+style: hacker   # opciones: dark, light, hacker
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
